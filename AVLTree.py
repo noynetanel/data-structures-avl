@@ -1,7 +1,4 @@
-# username - strull
-# id1      - 318731437
 # name2    - Ofir Strull
-# id2      - 206590879
 # name1    - Noy Netanel
 """A class represnting a node in an AVL tree"""
 
